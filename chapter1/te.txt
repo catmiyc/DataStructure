@@ -1,1 +1,49 @@
-fdsa
+几十万代码 + 几十万用户的coder
+
+
+
+算法基础扎实 
+
+CS 心理 经济管理 历史
+
+中国缺什么就是不缺人
+
+程序设计 + 算法 + 操作系统
+
+
+
+准备：
+
+把基础的数据结构用C语言实现，在纸上写3遍以上，用我能想到的最精简最优化的方法
+
+阅读CARM 和TCPL ，确保不会遗漏C语言的每个细节
+
+重温之前自己做过的靠谱项目，并总结关键难题和解决思路
+
+重读Writing Solid Code,Elements of Programming, Practice of programming
+
+阅读Science of Programming ,做到可以证明自己程序的正确性（前条件+后条件+不变式）
+
+
+
+算法
+
+重读 Algorithm Design Manual, 重点阅读Dynamic Programming 和 BackTraverse
+
+重读Programming Pearls和More Programming Pearls.并完成所有课后题
+
+独立解决《编程之美》里面的题目
+
+完成Careercup里Amazon,Google,Microsoft三个分类下面的20页面试题
+
+完成TopCode的数十道D1L2~D2L1难度的算法题目
+
+
+
+
+
+操作系统
+
+重读Modern Operating System, 重温OS核心概念
+
+重读Computer Systems a Programmer's Perspective的关键章节，回顾关键点
